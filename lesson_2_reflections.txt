@@ -14,6 +14,9 @@ to be added to repo and what not.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Even before you commmit, use git diff command to check what are the 
+changes between Working Directory and the Staging area
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
