@@ -25,6 +25,8 @@ then branching will help in doing that!
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams helps the reachability of the branches, and make visualisation easier
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
