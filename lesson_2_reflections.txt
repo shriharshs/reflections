@@ -6,6 +6,11 @@ Without initialising git, git does not know that this will be the repository to 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging Area contains only the files you want to commit to the repository, where as working directory contains all your files
+you're working on and it is really good to have staging area, because it gives a clear differentiation of what files has
+to be added to repo and what not.
+
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
