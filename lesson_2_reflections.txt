@@ -34,3 +34,6 @@ Merging helps combining the features which was in development by others with fea
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging is good when the different code is getting merged, but manual merging is really good when same code is getiing
+nerged with some lil differnt change in logic
