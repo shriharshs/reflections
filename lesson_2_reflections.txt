@@ -20,6 +20,9 @@ changes between Working Directory and the Staging area
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you have a new feature to implement and you do not want to take risk on current working code,
+then branching will help in doing that!
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
