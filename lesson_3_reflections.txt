@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 ~ Fork - when you want to copy one repository in GitHub context, the FORK will be used
   Clone - When you want to copy your remote repository to local
   Braches - When you want to add new feature without disturbing the master
+  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+~ If you're offline then you can merge the changes locally and then push it with ease
